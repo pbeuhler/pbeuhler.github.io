@@ -1,0 +1,13 @@
+#demo{
+    font-style: italic;
+    background-color: black;
+    color: white ;
+}
+
+p{
+    color: blueviolet;
+}
+
+.myClass{
+    color: red;
+}
